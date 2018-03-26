@@ -1,0 +1,35 @@
+.mainheader{background-image: url("road.jpg");
+background-repeat: no-repeat;
+width:100%;
+height:525px;
+background-size:cover;
+background-position: center;
+text-align: center;
+overflow: hidden;
+text-transform: uppercase;
+
+}
+
+.mainheader li{display: block;
+background-color:olive;
+margin-bottom:5px;
+border-radius: 5px;
+width:100%;
+text-transform: uppercase;
+color: white;
+
+}
+h1{text-shadow:2px 2px olive;
+font-size:45px;}
+
+body {font-family: comic sans ms;
+background-color: burlywood;
+margin:auto 0;
+}
+.foot , .foot li{background-color:peru;
+list-style-type:none;
+display: block;
+width:100%;
+text-align: center;
+height:auto;
+}
